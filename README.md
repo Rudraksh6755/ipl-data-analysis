@@ -67,19 +67,19 @@ The project also investigates first-innings scores, scoring rates, team totals, 
 
 | ⚡ Fastest Fifty                                 | 🟠 Orange Cap Winners                                     |
 | ----------------------------------------------- | --------------------------------------------------------- |
-| ![Fastest Fifty](screenshots/Fastest-Fifty.png) | ![Orange Cap Winners](screenshots/IPL-Orange-Cap-Winners.png) |
+| ![Fastest Fifty](screenshots/Fastest%20Fifty.png) | ![Orange Cap Winners](screenshots/IPL%20Orange%20Cap%20Winners.png) |
 
 | 🟣 Purple Cap Winners                                     | 🏆 IPL Titles Won by Each Team                   |
 | --------------------------------------------------------- | ------------------------------------------------ |
-| ![Purple Cap Winners](screenshots/purple-cap-winners.png) | ![IPL Titles](screenshots/ipl-title-winners.png) |
+| ![Purple Cap Winners](screenshots/IPL%20Purple%20Cap%20Winners.png) | ![IPL Titles](screenshots/IPL%20Titles%20won%20by%20each%20team.png) |
 
 | 🏟️ Venue Insights                                | 📈 Winning Trends                                 |
 | ------------------------------------------------- | ------------------------------------------------- |
-| ![Venue Insights](screenshots/venue-insights.png) | ![Winning Trends](screenshots/winning-trends.png) |
+| ![Venue Insights](screenshots/Venue%20Insights.png) | ![Winning Trends](screenshots/Winning%20Trends.png) |
 
 | 💥 Batsmen with Highest Sixes                   |   |
 | ----------------------------------------------- | - |
-| ![Highest Sixes](screenshots/highest-sixes.png) |   |
+| ![Highest Sixes](screenshots/Batsman%20with%20Highest%20Sixes.png) |   |
 
 
 
