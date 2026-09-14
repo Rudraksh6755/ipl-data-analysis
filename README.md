@@ -67,7 +67,7 @@ The project also investigates first-innings scores, scoring rates, team totals, 
 
 | ⚡ Fastest Fifty                                 | 🟠 Orange Cap Winners                                     |
 | ----------------------------------------------- | --------------------------------------------------------- |
-| ![Fastest Fifty](screenshots/fastest-fifty.png) | ![Orange Cap Winners](screenshots/orange-cap-winners.png) |
+| ![Fastest Fifty](screenshots/Fastest-Fifty.png) | ![Orange Cap Winners](screenshots/IPL-Orange-Cap-Winners.png) |
 
 | 🟣 Purple Cap Winners                                     | 🏆 IPL Titles Won by Each Team                   |
 | --------------------------------------------------------- | ------------------------------------------------ |
