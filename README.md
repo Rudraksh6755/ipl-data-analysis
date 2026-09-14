@@ -449,11 +449,11 @@ Computer Engineering Graduate | Data Analytics & Full Stack Development
 
 ---
 
-## 📜 License
+## 📄 License
 
-This project is open-source and available under the **MIT License**.
+This project is licensed under the [MIT License](LICENSE).
 
-If you are using the MIT License, add a `LICENSE` file to the repository containing the standard MIT License text.
+
 
 ---
 
