@@ -63,6 +63,26 @@ The project also investigates first-innings scores, scoring rates, team totals, 
 
 ---
 
+## 📊 Dashboard Insights
+
+| ⚡ Fastest Fifty                                 | 🟠 Orange Cap Winners                                     |
+| ----------------------------------------------- | --------------------------------------------------------- |
+| ![Fastest Fifty](screenshots/fastest-fifty.png) | ![Orange Cap Winners](screenshots/orange-cap-winners.png) |
+
+| 🟣 Purple Cap Winners                                     | 🏆 IPL Titles Won by Each Team                   |
+| --------------------------------------------------------- | ------------------------------------------------ |
+| ![Purple Cap Winners](screenshots/purple-cap-winners.png) | ![IPL Titles](screenshots/ipl-title-winners.png) |
+
+| 🏟️ Venue Insights                                | 📈 Winning Trends                                 |
+| ------------------------------------------------- | ------------------------------------------------- |
+| ![Venue Insights](screenshots/venue-insights.png) | ![Winning Trends](screenshots/winning-trends.png) |
+
+| 💥 Batsmen with Highest Sixes                   |   |
+| ----------------------------------------------- | - |
+| ![Highest Sixes](screenshots/highest-sixes.png) |   |
+
+
+
 ## 📁 Repository Structure
 
 ```text
